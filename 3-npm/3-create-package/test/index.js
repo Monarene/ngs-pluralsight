@@ -1,6 +1,6 @@
-const print = require('frame-print');
+const print = require("monarene-frame-print");
 
-print('Hello NPM!');
+print("Hello NPM!");
 
 /*
 Expected Output:

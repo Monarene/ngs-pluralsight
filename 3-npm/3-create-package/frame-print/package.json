@@ -1,0 +1,16 @@
+{
+  "name": "monarene-frame-print",
+  "version": "1.0.0",
+  "description": "This package helps turn the console log into print",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Print",
+    "test",
+    "frame-print"
+  ],
+  "author": "Michael Mekuleyi",
+  "license": "ISC"
+}
